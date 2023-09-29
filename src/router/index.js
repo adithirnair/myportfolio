@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import UserAuth from '../components/icons/UserAuth.vue'
+import UserAuth from '../components//UserAuth.vue'
 import HomeView from '../views/HomeView.vue'
 import MyProjects from '../components/MyProjects.vue'
 
