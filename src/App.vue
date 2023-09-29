@@ -1,7 +1,7 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
-import UserAuth from './components/icons/UserAuth.vue';
+import UserAuth from './components/UserAuth.vue';
 
 </script>
 
